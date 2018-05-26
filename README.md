@@ -1,0 +1,2 @@
+# nodejs_chat
+基于nodejs和websocket的点对点聊天系统
